@@ -1,5 +1,4 @@
-
-
+"Two simple functions that print 'Hello World' and 'Goodbye'"
 
 def my_function():
     """
